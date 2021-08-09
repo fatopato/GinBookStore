@@ -14,7 +14,7 @@ $ go run .
 The server starts on 8080 port and you can reach the the API via http://localhost:8080/api/v1/
 You can do CRUD operations by interacting with the API
 
-# Sample Requsts
+# Sample Requests
 
 Get All Books:
 ```
