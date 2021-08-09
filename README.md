@@ -1,7 +1,9 @@
 # GinBookStore
 Simple Rest API with Golang and Gin Framework.
 
-The API uses sqlite3 so there will be a sqlite3 file created named as 'data.db' after the server started
+Read in: [Türkçe](README.tr.md)
+
+The API uses sqlite3 so there will be a sqlite3 file created named as 'data.db' after the server started.
 
 You can get imports by running 
 ```
